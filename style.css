@@ -1,0 +1,28 @@
+body {font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h1 {
+font-size: 36px;
+font-weight: 900;
+text-decoration: underline;
+color: goldenrod;
+}
+
+.button {
+background-color: cornflowerblue;
+border-color: goldenrod;
+color: goldenrod;
+padding: 20px 34px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 32px;
+font-weight: 700;
+margin: 4px 2px;
+cursor: pointer;
+}
+img {
+    border: 3px;
+    border-style: outset;
+}
